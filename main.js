@@ -60,6 +60,7 @@ document.getElementById('tgMessage').addEventListener('submit', function (e) {
     .then((res) => {
       this.name.value = '';
       this.email.value = '';
+      this.text.value = '';
       successM.innerHTML = 'Сообщение отправлено!';
       successM.style.display = 'block';
     })
