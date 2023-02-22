@@ -1,4 +1,4 @@
-## Teltgram-message (file) [форма отправки](https://miroshairk.github.io/Teltgram-message-file-/) 
+## Teltgram-message (file) [форма отправки](https://miroshairk.github.io/App-Teltgram-message-file-/) 
 
 Отправляет данные и файлы в телеграм 
 - Отправка с использованием Axios [документация](https://github.com/klesarev/axios-rus)
